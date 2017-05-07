@@ -1,7 +1,7 @@
 {
   "name": "h4k-front",
   "version": "0.0.0",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -10,7 +10,6 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
   "dependencies": {
     "@angular/common": "^4.0.0",
     "@angular/compiler": "^4.0.0",
